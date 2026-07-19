@@ -2,7 +2,7 @@
   <img src="assets/shield.svg" alt="Adversarial Security" width="120"/>
 </p>
 
-<h1 align="center">Adversarial Security</h1>
+<h1 align="center">Persistent Adversarial Security</h1>
 <p align="center"><strong>Game-Theoretic Key Integrity Through Blockchain Economics</strong></p>
 <p align="center"><em>A whitepaper on using cryptocurrency balances as real-time, permissionless proof of cryptographic key integrity.</em></p>
 
